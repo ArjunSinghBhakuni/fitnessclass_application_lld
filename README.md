@@ -51,20 +51,6 @@ OOP Design — Clear, extensible class-based structure.
 
 Design Patterns — Industry-proven patterns to ensure scalability and maintainability.
 
-📁 Project Structure
-cpp
-Copy
-Edit
-src/
-├── models/        // Domain models (User, Admin, FitnessClass, Booking)
-├── services/      // Core business logic (BookingService, UserService)
-├── utils/         // Utilities and helpers
-├── enums/         // Enums for status and tiers
-├── index.ts       // Entry point
-💡 How to Run
-bash
-Copy
-Edit
 # Install dependencies
 npm install
 
